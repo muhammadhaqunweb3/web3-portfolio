@@ -26,6 +26,6 @@ Dasar-dasar:
 
 📧 Email: muhammadhaqun@gmail.com
 
-🐦 Twitter: @muhammadhaqun
+🐦 Twitter: @muhammadhaqun https://x.com/muhammadhaqun?t=qQ5jfsCH1FX5HGdF62N5kA&s=09
 
-💼 LinkedIn: Muhammad haqun
+💼 LinkedIn: Muhammad haqun https://www.linkedin.com/in/muhammad-haqun-18444937b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
