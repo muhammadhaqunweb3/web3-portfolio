@@ -14,12 +14,10 @@ Pengalaman Pertama Pakai Metamask Wallet – Muhammad Haqun [https://phrygian-ti
 💡 Kenapa Web3 Penting untuk Masa Depan Internet – Muhammad Haqun  
 [https://phrygian-timpani-a66.notion.site/Kenapa-Web3-Penting-untuk-Masa-Depan-Internet-Muhammad-Haqun-Dulu-ada-Web1-baca-saja-lalu-Web2--2654fafdea44819fac6ed8f226f993c2?pvs=149](https://www.notion.so/Kenapa-Web3-Penting-untuk-Masa-Depan-Internet-Muhammad-Haqun-Dulu-ada-Web1-baca-saja-lalu-Web2--2654fafdea44819fac6ed8f226f993c2?pvs=21)
 🛠️ Skill yang Sedang Dipelajari
-
-Crypto Wallet (Metamask)
-
-Dasar-dasar:
-
- BlockchainWeb3 Community & Content Writing Smart Contract / Solidity
+-Crypto Wallet (Metamask)
+-Dasar-dasar BlockchainWeb3 
+-Community & Content Writing 
+-Smart Contract / Solidity
 
 ---
 📬 Kontak
